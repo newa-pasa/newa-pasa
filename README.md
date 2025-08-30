@@ -52,10 +52,10 @@ Python | Java | C#.NET | ASP.NET | JavaScript | PHP | Rust | Go (Golang)
 ## 📊 GitHub Stats  
 
 <a href="https://github.com/newa-pasa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newa-pasa&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newa-pasa&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/newa-pasa/newa-pasa.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newa-pasa&repo=newa-pasa.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newa-pasa&layout=compact&theme=buefy" />
 </a>
 
 
