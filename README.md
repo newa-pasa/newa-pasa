@@ -54,16 +54,16 @@ Python | Java | C#.NET | ASP.NET | JavaScript | PHP | Rust | Go (Golang)
 | ------------ | ----------- |
 | <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=newa-pasa&show_icons=true&theme=buefy" /></a> | <a href="https://github.com/newa-pasa/CyberSecurity"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newa-pasa&repo=webspy&theme=buefy" /></a> |
 | Top Languages | Streak Stats |
-| <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newa-pasa&layout=compact&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/anuraghazra.github.io"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newa-pasa&theme=buefy" /></a> |
+| <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newa-pasa&layout=compact&theme=buefy" /></a> | <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newa-pasa&theme=buefy" /></a> |
 
 
 
 ---
 
 ##  Poke me at
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newapasa/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasa.dilipshrestha@gmail.com)
 
-- [LinkedIn](https://www.linkedin.com/in/newapasa/)  
-- [Email](mailto:pasa.dilipshrestha@gmail.com)  
 
 ---
 
