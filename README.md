@@ -1,39 +1,61 @@
-# 👋 Hello WORLD
+# 👋 Hello, World! I’m Dilip Shrestha  
+🤖 Building **smart machines**, one neural network at a time | 💻 Full-stack coder | 🔐 Cybersecurity explorer | 🌌 Forever curious
+
 
 ### *Aspiring Machine Learning & AI Enthusiast*  
-Building strong foundations in deep learning, neural networks, and AI systems.
+💡 Turning **ideas into code**, and **code into intelligent systems**.  
+🚀 Exploring the realms of **Deep Learning, Neural Networks, Generative AI**, and practical cybersecurity.  
 
 ---
 
-##  Projects & Repositories
+## 🧑‍💻 What I’ve Done So Far  
 
-###  Practical Tools & Web Development
-- **scrum-poker** *(JavaScript)* – A lightweight Scrum Poker app for agile estimation sessions.
-- **PHPMVC** *(PHP)* – My own minimal MVC framework for rapid prototyping.
-- **converter** *(PHP)* – Handy utility for data format conversions.
-- **webspy** *(Python)* – A script to automate web monitoring tasks.
+- **Software Development:**  
+  - Built practical applications including a **Scrum Poker app**, a **PHP MVC framework**, and data converters.  
+  - Developed utilities like **webspy (Python)** for automated monitoring.  
 
-###  Utility & Learning Resources
-- **jquery.serializeJSON** (fork) – Adds nested JSON serialization to HTML forms.
-- **CyberSecurity** *(Docker)* – A 30-day cybersecurity curriculum packaged in Docker for easy setup and learning.
+- **Programming Foundations:**  
+  - Proficient in **Python, Java, C#.NET, ASP.NET, Rust, Golang, JavaScript, and PHP**.  
+  - Experienced across web development, system-level programming, and automation scripts.  
+
+- **AI/ML Exploration:**  
+  - Studied and summarized key research papers:  
+    - [Attention is All You Need](https://arxiv.org/abs/1706.03762) *(Transformers)*  
+    - [On the Theory of Adversarial Examples](https://arxiv.org/abs/2006.06742)  
+    - [Statistical Query Learning](https://arxiv.org/abs/2206.08918)  
+    - [ImageNet Classification with Deep CNNs](https://arxiv.org/abs/1212.2002)  
+  - Explored **adversarial noise, optimization, and control-theory-inspired methods**.  
+  - Currently learning **PyTorch, TensorFlow, and Hugging Face** to bridge theory with practice.  
+
+- **Cybersecurity:**  
+  - Created a **30-day cybersecurity curriculum** packaged in **Docker**.  
+  - Hands-on experience in **system hardening, network monitoring, and basic penetration testing**.  
+
+- **Future Direction:**  
+  - Expanding GitHub with **ML demos, graph-based experiments, and AI research reproductions**.  
 
 ---
 
-##  Where I'm Headed
+## 🛠️ Tech Stack & Skills  
 
-- Diving deeper into **Deep Learning**, **Neural Networks**, and **Generative AI**.
-- Planning to enrich repositories with ML-based projects, including:
-  - Neural network demos with PyTorch/TensorFlow.
-  - Data science utilities and graph-based model experiments.
-  - Recreated experiments from key AI research papers (like Attention, Adversarial learning).
+**Languages:**  
+Python | Java | C#.NET | ASP.NET | JavaScript | PHP | Rust | Go (Golang)  
+
+**Frameworks & Tools:**  
+- Web Development: ASP.NET, PHP MVC, Node.js  
+- AI/ML: PyTorch, TensorFlow, scikit-learn, Hugging Face  
+- Cybersecurity: Docker, Kali/Linux tools, Network Monitoring  
+- DevOps & Utilities: Docker, Git/GitHub, Linux  
 
 ---
 
-##  Tech Stack & Skills
+## 📊 GitHub Stats  
 
-- **Languages:** JavaScript, PHP, Python  
-- **Frameworks & Tools:** Docker, basic web stacks (HTML/CSS/JS), minimal MVC  
-- **Future Focus Areas:** PyTorch, TensorFlow, scikit-learn, Hugging Face models
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=newa-pasa&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newa-pasa&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newa-pasa&theme=tokyonight)  
 
 ---
 
