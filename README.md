@@ -51,15 +51,10 @@ Python | Java | C#.NET | ASP.NET | JavaScript | PHP | Rust | Go (Golang)
 
 ## 📊 GitHub Stats  
 
-| <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=newa-pasa&show_icons=true&theme=buefy" /></a> | <a href="https://newa-pasa.github.io"><img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=newa-pasa&layout=compact&theme=buefy" /></a> |
+| <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=newa-pasa&show_icons=true&theme=buefy" /></a> | <a href="https://newa-pasa.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newa-pasa&layout=compact&theme=buefy" /></a> |
 | <a href="https://github.com/newa-pasa/CyberSecurity"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newa-pasa&repo=webspy&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/anuraghazra.github.io"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newa-pasa&theme=buefy" /></a> |
 | ------------- | ------------- |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=newa-pasa&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newa-pasa&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=newa-pasa&theme=tokyonight)  
 
 ---
 
