@@ -1,4 +1,4 @@
-# 👋 Hello, World! I’m Dilip Shrestha  
+# 👋 Hello, World! I’m Dilip Shrestha  ![Profile Views](https://komarev.com/ghpvc/?username=newa-pasa&color=0e75b6&style=flat)  
 🤖 Building **smart machines**, one neural network at a time | 💻 Full-stack coder | 🔐 Cybersecurity explorer | 🌌 Forever curious
 
 
